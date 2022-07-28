@@ -1,0 +1,28 @@
+.status-bar-item.plugin-readwise-official {
+    display: none;
+}
+
+.status-bar-item.plugin-obsidian-spaced-repetition.mod-clickable {
+    display: none;
+}
+
+.status-bar-item.plugin-backlink.mod-clickable {
+    display: none;
+}
+
+.status-bar-item.plugin-sync {
+    display: none;
+}
+
+.status-bar-item.plugin-sync {
+    display: none;
+}
+
+
+.side-dock-actions:nth-child(1) {
+    display: none;
+}
+
+.status-bar-item.plugin-pane-relief {
+    display:none;
+}

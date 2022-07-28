@@ -1,0 +1,82 @@
+/* Main text, font available at https://brailleinstitute.org/freefont*/
+body {
+    font-family: 'Atkinson Hyperlegible',  sans-serif !important;
+    color: #554c44 !important;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+} 
+
+:root {
+    --body: 21px;
+    --h1: 36px;
+    --h2: 32px;
+    --h3: 28px;
+    --h4: 24px;
+    --h5: 21px;
+    }
+/* Low Contrast headings */
+h1 {
+    color: #4a423b !important;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+h2 {
+    color: #554c44 !important;
+}
+
+h3 {
+    color: #60564d !important;
+}
+
+h4 {
+    color: #6b6056 !important;
+}
+
+h5 {
+    color: #766a5f !important;
+    font-weight: bold;
+}
+
+/* Spacing */
+dt {
+    float: left;
+    clear: left;
+    width: 17%;
+    font-weight: bold;
+}
+dd {
+    margin-left: 17%;
+    margin-bottom:7px;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #8b7c6f;
+}
+a:hover, a:active {
+    background-color: #8b7c6f;
+    color: #000000;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #828282;
+}
+
+/* Horizontal lines */
+hr {
+    color: #8b7c6f;
+}
+
+table {
+    width: 100%;
+}
