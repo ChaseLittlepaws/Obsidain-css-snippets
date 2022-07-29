@@ -26,3 +26,7 @@
 .status-bar-item.plugin-pane-relief {
     display:none;
 }
+
+.status-bar-item.plugin-privacy-glasses {
+    display:none;
+}
